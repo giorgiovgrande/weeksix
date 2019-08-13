@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weeksix/static/css/main.2cce8147.chunk.css",
+    "main.js": "/weeksix/static/js/main.83b01245.chunk.js",
+    "main.js.map": "/weeksix/static/js/main.83b01245.chunk.js.map",
+    "runtime~main.js": "/weeksix/static/js/runtime~main.7d0f2a03.js",
+    "runtime~main.js.map": "/weeksix/static/js/runtime~main.7d0f2a03.js.map",
+    "static/js/2.45949301.chunk.js": "/weeksix/static/js/2.45949301.chunk.js",
+    "static/js/2.45949301.chunk.js.map": "/weeksix/static/js/2.45949301.chunk.js.map",
+    "index.html": "/weeksix/index.html",
+    "precache-manifest.d5d80e874cebe0733e595c3dced03c06.js": "/weeksix/precache-manifest.d5d80e874cebe0733e595c3dced03c06.js",
+    "service-worker.js": "/weeksix/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/weeksix/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/weeksix/static/media/logo.5d5d9eef.svg"
+  }
+}
